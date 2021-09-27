@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FinPocket</string>
+    <string name="finpocket">FINPOCKET</string>
+    <string name="don_t_delay_invest_today">DON\'T DELAY INVEST TODAY</string>
+    <string name="powered_by">Powered By</string>
+    <string name="hash">#</string>
+    <string name="fortune_securities">FORTUNE SECURITIES</string>
+    <string name="trec_046">TREC - 046</string>
+    <string name="since_1994">Since 1994</string>
+    <string name="enter_your_mobile_number">Enter Your Mobile Number</string>
+    <string name="please_confirm_your_country_code_and_enter_you_phone_number">Please confirm your country code and enter you phone number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="conitinue">Continue</string>
+    <string name="_92">PK +92</string>
+    <string name="otp_verification">OTP verification</string>
+    <string name="enter_the_4_digit_code_sent_to_you_at">Enter the 4- digit code sent to you at:</string>
+    <string name="_92334372982">+92334372982</string>
+    <string name="resend_code_in_00_27">Resend Code in 00:27</string>
+    <string name="enable_biometric">Enable Biometric</string>
+    <string name="pin_number">Pin number</string>
+    <string name="login">Login</string>
+    <string name="forgot_pin">Forgot Pin?</string>
+    <string name="not_you">Not you?</string>
+    <string name="click_here">Click Here</string>
+</resources>
